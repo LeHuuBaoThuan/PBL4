@@ -1,0 +1,2 @@
+../1_driver_SmartPID_V3/moving_average_int_16.c:9:6:Average_filter_reset	24	static
+../1_driver_SmartPID_V3/moving_average_int_16.c:20:9:Average_filter_apply	16	static

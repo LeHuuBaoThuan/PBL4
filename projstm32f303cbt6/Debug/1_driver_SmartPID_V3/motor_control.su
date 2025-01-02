@@ -1,0 +1,2 @@
+../1_driver_SmartPID_V3/motor_control.c:14:13:MOTOR_Contr_Init	48	static
+../1_driver_SmartPID_V3/motor_control.c:33:12:MOTOR_rotation	32	static

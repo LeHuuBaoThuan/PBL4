@@ -1,0 +1,5 @@
+../0_app/0_strPrc.c:41:7:strPrc_num2str	3
+../0_app/0_strPrc.c:63:7:strPrc_conv32B216B	1
+../0_app/0_strPrc.c:75:6:strPrc_strcpy_pos	1
+../0_app/0_strPrc.c:100:6:strPrc_strcpy10bytesADC	1
+../0_app/0_strPrc.c:126:6:strPrc_strcpy4bytes_int16ADC	1

@@ -1,0 +1,2 @@
+../0_app/task_GPIO.c:19:6:BtnDebouce_Prc	48	static,ignoring_inline_asm
+../0_app/task_GPIO.c:77:6:LED_Processor	32	static
